@@ -1,0 +1,21 @@
+.myheader{
+    width: 90vw;
+    height: 100px;
+    margin: 0px auto;
+}
+.mypictures{
+    height:27vw ;
+    
+}
+a{
+    text-decoration:none;
+}
+ul{
+    list-style-type: none;
+}
+.mycollapse
+{
+    width: 82vw;
+    margin: 0px auto;
+}
+
